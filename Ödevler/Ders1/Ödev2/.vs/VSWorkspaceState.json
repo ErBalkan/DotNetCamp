@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Entities",
+    "\\Entities\\Concrete",
+    "\\Workaround"
   ],
-  "SelectedNode": "\\Business",
+  "SelectedNode": "\\Entities\\Concrete",
   "PreviewInSolutionExplorer": false
 }

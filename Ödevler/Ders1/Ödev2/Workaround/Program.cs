@@ -27,4 +27,5 @@ Person person2 = new();
 person2.FirstName = "Engin";
 
 PttManager pttManager = new(new ForeignerManager());
+
 pttManager.GiveMask(person1);
